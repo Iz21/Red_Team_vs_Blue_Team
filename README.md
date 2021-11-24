@@ -26,4 +26,5 @@ This document contains the following details:
    -  WebDav Discovery/Connections
    -  Alerts and Mitigation Strategies
 ## Network Topology 
+![Network Topology](/Images/Red_vs_Blue_Team_Network diagram_Overview.PNG)
 
