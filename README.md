@@ -34,7 +34,7 @@ This document contains the following details:
 ![Red Team Topology](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/f7923b5d174e399368492385c48e0ad8c4a9c736/Images/Red%20Team_Github.PNG)
 
 ### BLUE Team
-![Blue Team Topology]
+![Blue Team Topology](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/48a69c5c165d094867d38cf322694bd238a7e7eb/Images/Blue%20Team_Github.PNG)
 
 
 
