@@ -25,4 +25,5 @@ This document contains the following details:
    - Brute Force Discover (i.e. Hydra)
    -  WebDav Discovery/Connections
    -  Alerts and Mitigation Strategies
-  
+## Network Topology 
+
