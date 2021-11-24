@@ -31,5 +31,7 @@ This document contains the following details:
 ![Network Topology](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/a4d09a5259b0b2dc8cb61ad4547e1943001a2c1b/Images/Red_vs_Blue_Team_Network%20diagram_Overview.PNG)
 
 ### RED Team
-![Red Team Topology|(
+![Red Team Topology]
+
+
 
