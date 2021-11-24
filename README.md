@@ -30,10 +30,10 @@ This document contains the following details:
 ### Overview
 ![Network Topology](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/a4d09a5259b0b2dc8cb61ad4547e1943001a2c1b/Images/Red_vs_Blue_Team_Network%20diagram_Overview.PNG)
 
-### RED Team
+### RED Team Attack Network Map:
 ![Red Team Topology](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/f7923b5d174e399368492385c48e0ad8c4a9c736/Images/Red%20Team_Github.PNG)
 
-### BLUE Team
+### BLUE Team Defense Network Map:
 ![Blue Team Topology](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/48a69c5c165d094867d38cf322694bd238a7e7eb/Images/Blue%20Team_Github.PNG)
 
 
