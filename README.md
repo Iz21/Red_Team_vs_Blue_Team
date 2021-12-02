@@ -38,7 +38,9 @@ This document contains the following details:
 
 # Red Team Penetration Test
 
-## Find IP address of Kali Linux machine:
+### 1. Find IP address of Kali Linux machine:
+
+
 
 
 
