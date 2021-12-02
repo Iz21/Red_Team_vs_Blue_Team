@@ -41,6 +41,8 @@ This document contains the following details:
 ### 1. Find IP address of Kali Linux machine:
 ![Find IP address of Kali Linux](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/eee37f6d9bf01ea896a992934054755604028d5f/Images/Find%20IP%20address%20of%20Kali%20Linux.png)
 
+### 2. Run Nmap on Kali Linux machine to find open port 80
+
 
 
 
