@@ -57,6 +57,13 @@ This document contains the following details:
 ![Exploitation 2](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/ebe0df1cd467ca7cb0030636084715c02cbe9feb/Images/Exploitation%20slide2.png)
 ![Exploitation 3](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/ebe0df1cd467ca7cb0030636084715c02cbe9feb/Images/Exploitation%20slide3.png)
 
+# Blue Team Analysis
+![Blue Team Intro](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Intro.png)
+![Blue Team Analysis1](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Analysis1.png)
+![Blue Team Analysis2](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Analysis2.png)
+![Blue Team Analysis3](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Analysis3.png)
+![Blue Team Analysis4](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Analysis4.png)
+
 
 
 
