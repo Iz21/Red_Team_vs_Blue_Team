@@ -64,6 +64,13 @@ This document contains the following details:
 ![Blue Team Analysis3](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Analysis3.png)
 ![Blue Team Analysis4](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/9826c8e74acd96a43fedb0ad3fae69bb4fe2793a/Images/Blue%20Team%20Analysis4.png)
 
+# Blue Team Mitigation Strategies
+![Blue Team Mitigation Intro](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/b6dcb0f9a122ba0cad002905372ff13020de506f/Blue%20Team%20Mitigation%20Intro.png)
+![Blue Team Mitigation1](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/b6dcb0f9a122ba0cad002905372ff13020de506f/Blue%20Team%20Mitigation1.png)
+![Blue Team Mitigation2](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/b6dcb0f9a122ba0cad002905372ff13020de506f/Blue%20Team%20Mitigation2.png)
+![Blue Team Mitigation3](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/b6dcb0f9a122ba0cad002905372ff13020de506f/Blue%20Team%20Mitigation3.png)
+![Blue Team Mitigation4](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/b6dcb0f9a122ba0cad002905372ff13020de506f/Blue%20Team%20Mitigation4.png)
+![Blue Team Mitigation5](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/b6dcb0f9a122ba0cad002905372ff13020de506f/Blue%20Team%20Mitigation5.png)
 
 
 
