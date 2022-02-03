@@ -49,8 +49,9 @@ This document contains the following details:
 ![Run Nmap on Kali Linux to find open port](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/cb2c41880d6df06a2004f1d9a04aa24882dfe576/Images/Run%20Nmap%20on%20Kali%20LInux.png)
 
 ## Vulnerability Assessment
-![Vulnerability Assesment] 
-(https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/29894624dda55031ee725a0c840545c5fac27198/Images/Vulnerablitiy%20Assessment.png)
+![Vulnerability Assesment](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/29894624dda55031ee725a0c840545c5fac27198/Images/Vulnerablitiy%20Assessment.png)
+
+
 
 
 
