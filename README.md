@@ -50,6 +50,7 @@ This document contains the following details:
 
 ## Vulnerability Assessment
 ![Vulnerability Assesment](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/29894624dda55031ee725a0c840545c5fac27198/Images/Vulnerablitiy%20Assessment.png)
+![Vulnerability Assesmentt2](https://github.com/Iz21/Red_Team_vs_Blue_Team_Project/blob/609f328b2fb69cd82759bfc3bfcf713a2c6e7bef/Images/Vulnerablitiy%20Assessment2.png)
 
 
 
